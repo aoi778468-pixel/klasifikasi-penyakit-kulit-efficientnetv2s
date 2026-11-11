@@ -18,9 +18,16 @@ Pengembangan model menerapkan *transfer learning*, *fine-tuning* dua tahap, *ens
 
 ## Dataset
 
-Dataset penelitian menggunakan citra medis dari tujuh repositori publik Kaggle, yaitu *Skin Disease Classification*, *Skin Issues Version 2*, *Psoriasis Data Set*, *Skin Diseases Image Dataset*, *SD-198*, *Psoriasis Skin Dataset*, dan *DermNet*.
+Dataset penelitian berasal dari beberapa repositori publik Kaggle yang mencakup enam kelas penyakit kulit.
+Dataset tidak disertakan dalam repository ini. Sumber dataset dapat diakses melalui tautan berikut:
 
-Dataset tidak disertakan dalam repository ini.
+* [Skin Disease Classification](https://www.kaggle.com/datasets/adtech1234/skin-disease-classification)
+* [Skin Issues Version 2](https://www.kaggle.com/datasets/ahmedismaiil/skin-issues-version-2-dataset-balanced)
+* [Psoriasis Data Set](https://www.kaggle.com/datasets/devendrababu9666/psoriasis-data-set)
+* [Skin Diseases Image Dataset](https://www.kaggle.com/datasets/ismailpromus/skin-diseases-image-dataset)
+* [SD-198](https://www.kaggle.com/datasets/longngzzz/sd-198)
+* [Psoriasis Skin Dataset](https://www.kaggle.com/datasets/pallapurajkumar/psoriasis-skin-dataset)
+* [DermNet](https://www.kaggle.com/datasets/shubhamgoel27/dermnet)
 
 ## Teknologi
 
@@ -41,6 +48,7 @@ Seluruh notebook dirancang untuk dijalankan menggunakan Kaggle Notebook dengan d
 3. Implementasi antarmuka Gradio.
 
 Direktori dataset dan lokasi penyimpanan file model perlu disesuaikan dengan lingkungan eksekusi masing-masing.
+
 ---
 
 *Repository ini merupakan dokumentasi source code penelitian Tugas Akhir untuk keperluan akademik dan bukan merupakan pengganti diagnosis medis profesional.*
